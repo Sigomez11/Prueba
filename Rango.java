@@ -1,0 +1,5 @@
+package dptoPolicia;
+
+public enum Rango {
+	GENERAL, CORONEL, MAYOR, TENIENTE, CAPITAN, TENIENTE_CORONEL, DETECTIVE, PATRULLERO
+}
